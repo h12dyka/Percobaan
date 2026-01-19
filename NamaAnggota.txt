@@ -4,14 +4,4 @@ Silvia
 mikha
 akris
 
-<<<<<<< HEAD
-dari laptop
-
-andre makan apel
-=======
-<<<<<<< HEAD
-dari laptop
-=======
-dari lab
->>>>>>> 5207e1b (nambah dari lab)
->>>>>>> 89ab564 (iip)
+masuk pak eko
